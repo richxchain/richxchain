@@ -1,11 +1,14 @@
+<p align="center"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/assets/banner.svg" width="100%" alt="RICHX CHAIN"></p>
 
+<h3 align="center">One chain. Four names. Everything public.</h3>
 
-<h1 align="center">RichX Chain</h1>
-
-<p align="center">One chain. Four names.<br><b>RichX Coin · Ethicoin · Bitcoin RXC · Mr Fluffy</b></p>
+<table align="center"><tr><td align="center" width="25%"><a href="https://github.com/richxchain/richx-chain/blob/main/tokens/richx-coin.md"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/logos/richx.png" width="120" alt="RichX Coin"><br><b>RichX Coin</b></a><br><sub>RICHX</sub></td><td align="center" width="25%"><a href="https://github.com/richxchain/richx-chain/blob/main/tokens/ethicoin.md"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/logos/ethicoin.png" width="120" alt="Ethicoin"><br><b>Ethicoin</b></a><br><sub>ETHIC+</sub></td><td align="center" width="25%"><a href="https://github.com/richxchain/richx-chain/blob/main/tokens/bitcoin-rxc.md"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/logos/bitcoin-rxc.png" width="120" alt="Bitcoin RXC"><br><b>Bitcoin RXC</b></a><br><sub>RBTX</sub></td><td align="center" width="25%"><a href="https://github.com/richxchain/richx-chain/blob/main/tokens/mr-fluffy.md"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/logos/mr-fluffy.png" width="120" alt="Mr Fluffy"><br><b>Mr Fluffy</b></a><br><sub>FLUFF</sub></td></tr></table>
 
 <p align="center"><a href="https://richx.finance">RichX Coin</a> · <a href="https://richxscan.com">Block explorer</a> · <a href="https://ethicoin.org">Ethicoin</a> · <a href="https://bitcoinrxc.com">Bitcoin RXC</a> · <a href="https://mrfluffycoin.com">Mr Fluffy</a></p>
 
-<p align="center">Network details, contract addresses and the token list:<br><a href="https://github.com/richxchain/richx-chain"><b>github.com/richxchain/richx-chain</b></a></p>
+<p align="center">Network details, contract addresses, token list, gallery:<br><a href="https://github.com/richxchain/richx-chain"><b>github.com/richxchain/richx-chain</b></a></p>
+<table align="center"><tr><td align="center" width="33%"><a href="https://raw.githubusercontent.com/richxchain/richx-chain/main/gallery/Ethicoin--decentralizing-crypto-0.jpg"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/gallery/Ethicoin--decentralizing-crypto-0.jpg" width="100%" alt="Ethicoin"></a></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/richxchain/richx-chain/main/gallery/Ethicoin--decentralizing-crypto-1.jpg"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/gallery/Ethicoin--decentralizing-crypto-1.jpg" width="100%" alt="Ethicoin"></a></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/richxchain/richx-chain/main/gallery/Ethicoin--decentralizing-crypto-2.jpg"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/gallery/Ethicoin--decentralizing-crypto-2.jpg" width="100%" alt="Ethicoin"></a></td></tr></table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/assets/line.svg" width="100%" alt=""></p>
 
 <p align="center"><sub>Chain ID 20260903 · RPC https://rpc.richxchain.com</sub></p>
