@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/logos/richx.png" width="150" alt=""></p>
+
 
 <h1 align="center">RichX Chain</h1>
 
